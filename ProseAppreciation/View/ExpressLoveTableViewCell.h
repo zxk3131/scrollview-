@@ -12,6 +12,7 @@
 /**
  *  标题标签属性
  */
+
 @property(nonatomic,strong)UILabel * titlelabel;
 /**
  *  内容标签内容属性
